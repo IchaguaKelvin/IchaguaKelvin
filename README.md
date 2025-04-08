@@ -1,4 +1,4 @@
-# Hi, I'm Kelvin Ichagua! 
+# Hi, I'm Kelvin Ichagua 
 ** Dental Technologist Transitioning into Tech**  
 
 - Currently learning: **Python, Git, Linux** via @ALX_Africa.  
