@@ -1,14 +1,10 @@
-# Hi, I'm Kelvin Ichagua👋  
+# Hi, I'm Kelvin Ichagua! 
+** Dental Technologist Transitioning into Tech**  
 
-### 🦷 Dental Technologist Transitioning into Tech  
-- 🌱 Learning **Python, Git, and Linux** via ALX.  
-- 🔜 Building my first projects—stay tuned!  
+- Currently learning: **Python, Git, Linux** via @ALX_Africa.  
+- **Skills Transfer:** Precision (dental prosthetics → clean code), Problem-Solving (debugging like adjusting a crown!).  
+- **Projects:** Building my first ALX assignments here—stay tuned!  
 
-### 🛠️ Skills  
-- **Precision**: From dental prosthetics to clean code.  
-- **Problem-Solving**: Debugging like adjusting a dental crown!  
-
-📫 **Connect**: [Your Email](mailto:ichaguak@gmail.com)  
-
-
-
+###  Let's Connect  
+- ✉️ Email: [Ichaguak@gmail.com](mailto:ichaguak@gmail.com)  
+- 🔗 LinkedIn: [Kelvin Ichagua](https://www.linkedin.com/in/kelvin-ichagua-0153681b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)   
