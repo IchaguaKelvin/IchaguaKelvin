@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kelvin Ichagua👋  
 
-<!--
-**IchaguaKelvin/IchaguaKelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🦷 Dental Technologist Transitioning into Tech  
+- 🌱 Learning **Python, Git, and Linux** via ALX.  
+- 🔜 Building my first projects—stay tuned!  
 
-Here are some ideas to get you started:
+### 🛠️ Skills  
+- **Precision**: From dental prosthetics to clean code.  
+- **Problem-Solving**: Debugging like adjusting a dental crown!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect**: [Your Email](mailto:ichaguak@gmail.com)  
+
+
+
