@@ -20,16 +20,37 @@ My goal? To build **healthcare technology solutions** that make services like de
 ---
 
 ### 🔧 What I'm Learning
-```python
 - Python (Core)
 - Django (Backend Framework)
 - Django REST Framework (APIs)
 - Git & Version Control
 - Linux CLI
 - Problem-Solving & Debugging
+
+---
+
+### 🎯 My Vision
+> "To build a tech company that improves healthcare access through mobile apps, APIs, and smart systems."
+
+This journey isn’t just about coding — it’s about **ownership, clarity, and service**.
+
+---
+
+### 📈 Currently
+- Building strong backend fundamentals
+- Practicing one command, one concept at a time
+- Documenting my journey to inspire others
+
+---
+
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Ichagua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-ichagua-0153681b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Ichagua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-ichagua-0153681b2)
 
 [![Email](https://img.shields.io/badge/Email-ichaguak@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ichaguak@gmail.com)
 
+---
+
+### 🛠️ Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IchaguaKelvin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchaguaKelvin&layout=compact&theme=dark)
