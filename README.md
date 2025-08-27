@@ -28,6 +28,8 @@ My goal? To build **healthcare technology solutions** that make services like de
 - Linux CLI
 - Problem-Solving & Debugging
 ### 📬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-ichagua-0153681b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- ✉️ [Email Me](mailto:ichaguak@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Ichagua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-ichagua-0153681b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+[![Email](https://img.shields.io/badge/Email-ichaguak@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ichaguak@gmail.com)
 
